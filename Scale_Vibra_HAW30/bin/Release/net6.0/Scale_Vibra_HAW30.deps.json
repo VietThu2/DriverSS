@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Scale_Vibra_HAW30/1.0.0": {
+        "runtime": {
+          "Scale_Vibra_HAW30.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scale_Vibra_HAW30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

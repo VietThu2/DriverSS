@@ -1,0 +1,157 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ScanAndScale.Driver/1.0.0": {
+        "dependencies": {
+          "Scale_DIGI": "1.0.0",
+          "Scale_IND_KG": "1.0.0",
+          "Scale_SampleReading": "1.0.0",
+          "Scale_Vibra_HAW30": "1.0.0",
+          "Scale_Vibra_SJ6200": "1.0.0",
+          "ScanAndScale.Helper": "1.0.0",
+          "System.Management": "9.0.1",
+          "Interop.CoreScanner": "1.0.0.0"
+        },
+        "runtime": {
+          "ScanAndScale.Driver.dll": {}
+        }
+      },
+      "System.CodeDom/9.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.CodeDom.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.124.61010"
+          }
+        }
+      },
+      "System.Management/9.0.1": {
+        "dependencies": {
+          "System.CodeDom": "9.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Management.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "9.0.124.61010"
+          }
+        }
+      },
+      "Scale_DIGI/1.0.0": {
+        "runtime": {
+          "Scale_DIGI.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Scale_IND_KG/1.0.0": {
+        "runtime": {
+          "Scale_IND_KG.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Scale_SampleReading/1.0.0": {
+        "runtime": {
+          "Scale_SampleReading.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Scale_Vibra_HAW30/1.0.0": {
+        "runtime": {
+          "Scale_Vibra_HAW30.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Scale_Vibra_SJ6200/1.0.0": {
+        "runtime": {
+          "Scale_Vibra_SJ6200.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ScanAndScale.Helper/1.0.0": {
+        "runtime": {
+          "ScanAndScale.Helper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interop.CoreScanner/1.0.0.0": {
+        "runtime": {
+          "Interop.CoreScanner.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScanAndScale.Driver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CodeDom/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2J5uq+2smnj+u1jlyVJ6BGGqaK9fHcK/EwN7mbsuPqTI6dZr86br8Cg6o/5B+icQ9ANTvTDpJjnhDNtYYZijHQ==",
+      "path": "system.codedom/9.0.1",
+      "hashPath": "system.codedom.9.0.1.nupkg.sha512"
+    },
+    "System.Management/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CLEo9O6FuO4GQ3ZQkGssg9CJ2w2TN7GMFf3wHTc7YVWJV4xoyJRPw+XIDQnCcSUJCrHhrAWOO60cAX29EV5LFQ==",
+      "path": "system.management/9.0.1",
+      "hashPath": "system.management.9.0.1.nupkg.sha512"
+    },
+    "Scale_DIGI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scale_IND_KG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scale_SampleReading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scale_Vibra_HAW30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scale_Vibra_SJ6200/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScanAndScale.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.CoreScanner/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

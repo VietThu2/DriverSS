@@ -1,0 +1,5 @@
+D:\2.DriverOMS\TestDriver\obj\Debug\net6.0-windows\TestDriver.csproj.AssemblyReference.cache
+D:\2.DriverOMS\TestDriver\obj\Debug\net6.0-windows\TestDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.DriverOMS\TestDriver\obj\Debug\net6.0-windows\TestDriver.AssemblyInfoInputs.cache
+D:\2.DriverOMS\TestDriver\obj\Debug\net6.0-windows\TestDriver.AssemblyInfo.cs
+D:\2.DriverOMS\TestDriver\obj\Debug\net6.0-windows\TestDriver.csproj.CoreCompileInputs.cache
